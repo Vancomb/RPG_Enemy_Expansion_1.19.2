@@ -1,0 +1,27 @@
+{
+  "name": "minecraft-steve",
+  "version": "1.0.0",
+  "description": "## What does it do?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WooHooMan43/Minecraft-Steve.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WooHooMan43/Minecraft-Steve/issues"
+  },
+  "homepage": "https://github.com/WooHooMan43/Minecraft-Steve#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1",
+    "leveldown": "^6.1.1",
+    "levelup": "^5.1.1",
+    "minecraft-server-util": "^5.2.10"
+  }
+}
